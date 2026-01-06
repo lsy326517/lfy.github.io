@@ -1,3 +1,3 @@
-layout: page
+layout: https://octocat.github.io
 title: "PAGE-TITLE"
-permalink: https://octocat.github.io/about/contact
+permalink: /about/contact
